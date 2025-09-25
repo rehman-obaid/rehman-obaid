@@ -20,9 +20,6 @@ An easy to use, open-source 3D level / scene editor with a customizable architec
 - C++ scripting for performance and flexibility.
 
 ### 🤖 Smart-StateMachine
-**Redefine game AI with a smarter, goal-driven approach.**  
-Forget spaghetti code and fragile, bloated behavior trees. Smart-StateMachine is a hierarchical, goal-oriented framework that unifies Utility AI, GOAP, and Behavior Trees into one clear, designer-friendly system.
+Smarter, goal-driven AI without the headaches. Forget tangled logic and bloated behavior trees — Smart-StateMachine keeps your AI clean, modular, and easy to reason about.
 
-Think in terms of goals and high-level actions, not tangled logic. Your AI stays modular, reactive, and believable — able to adapt on the fly to changing worlds, player actions, and narrative demands.
-
-Build characters that feel alive, without the pain of maintaining complex AI graphs.
+Think in terms of goals and intentions, not endless actions and reactions. Your characters stay adaptive, believable, and alive — able to react to stories, worlds, and players in meaningful ways.
